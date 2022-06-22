@@ -90,8 +90,8 @@ export default function Home() {
       </Head>
 
       <main className="flex justify-center items-center min-h-screen">
-        <div className="container  w-96 ">
-          <div className="row bg-slate-300 p-4 rounded flex flex-col gap-2   w-full">
+        <div className="container  w-96  py-4">
+          <div className="row bg-slate-300 p-4 rounded flex flex-col gap-2   w-full shadow-lg " >
             <h2 className="font-bold text-2xl text-center mb-8">
               Password Generator
             </h2>
